@@ -1,1 +1,2 @@
 # gitInit
+fix 1
